@@ -1,0 +1,6 @@
+<?php
+/* PayPal IPN Class
+*
+*/
+
+?>
